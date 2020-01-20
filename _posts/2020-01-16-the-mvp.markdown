@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The MVP"
-date:   2020-01-16 13:06:31 -0500
+date:   2020-01-16 13:06:31
 excerpt: "first post in a series of PM posts"
 ---
 
