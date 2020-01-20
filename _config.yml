@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Siddharth Mundhra"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "/images/homepage/bio-photo.jpg"
   bio              : "A blog on Product Management"
   location         : "Boston, MA"
   email            :
