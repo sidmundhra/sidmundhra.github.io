@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Siddharth Mundhra"
 title_separator          : "-"
-subtitle                 : A student's look into Product Management
+subtitle                 : "A student's look into Product Management"
 name                     : "Siddharth Mundhra"
 description              : "An amazing website."
 url                      : "sidmundhra.github.io"
