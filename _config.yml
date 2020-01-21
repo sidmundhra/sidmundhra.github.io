@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # "A student's look into Product Management"
 name                     : "Siddharth Mundhra"
 description              : "A blog on Product Management"
-url                      : # "sidmundhra.github.io"
+url                      :  https://sidmundhra.github.io
 baseurl                  : # "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -215,7 +215,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -225,16 +225,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
-  - jekyll-picture-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
 
 
@@ -248,12 +247,14 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+
+
 # category_archive:
 #  type: liquid
 #  path: /categories/
-# tag_archive:
-#  type: liquid
-#  path: /tags/
+tag_archive:
+  type: liquid
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -285,7 +286,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      # comments: true
+      comments: true
       share: true
       related: true
   # _pages
@@ -297,5 +298,5 @@ defaults:
       author_profile: true
       # read_time: true
       # comments: # true
-      # share: true
+      share: true
       # related: true
