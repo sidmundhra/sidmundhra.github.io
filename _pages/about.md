@@ -4,19 +4,7 @@ permalink: /about/
 
 ---
 
-I'm just a poor boy and nobody loves me
-He's just a poor boy from a poor family
-Spare him his life from this monstrosity
+Hey! I'm Siddharth Mundhra. I'm currently a graduate student at Northeastern University studying Engineering Management with a specialization in Product Management. In the past, I've worked at multiple organizations in the capacity of a Product Associate, a Data Analyst and an Operations Analyst. Here's my [resume](..assets/docs/Siddharth%20Mundhra_resume.pdf "Siddharth Mundhra's Work History") if you'd like to know more.
 
-Easy come easy go, will you let me go
-Bismillah! No we will not let you go, let him go
-Bismillah! We will not let you go, let him go
-Bismillah! We will not let you go, let me go
-Will not let you go, let me go (never)
-Never, never, never, never, never let me go
-No, no, no, no, no, no, no
-Oh mama mia, mama mia, mama mia let me go
-Beelzebub has a devil put aside for me
-For me
-For me
+I enjoy learning about the various facets of Product Management and how they play different roles at different organizations. This blog is my attempt to scratch that itch. In my free time, I love to read books, watch movies, standups and visiting museums. Shoot me an [email](mailto:mundhra.sid@gmail.com) if you'd like to discuss more movies, books, and museums. Don't be scared, I like interacting with people. :)
 
