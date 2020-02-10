@@ -65,7 +65,7 @@ Please know that I do not claim to be an expert at anything(except maybe Indian 
 
 {% include video id="QZUnhrHKxww" provider="youtube" %}
 
-**P.S**. - I'm visiting SF the first week of next month and would love to meet anybody who is up for long walks(+ conversations) and coffee. If you're around, please shoot me a message here, or on [Twitter](https://twitter.com/sid_mundhra).
+**P.S**. - I'm visiting SF the first week of next month and would love to meet anybody who is up for long walks(+ conversations) and coffee. If you're around, please shoot me an email [here](mailto:mundhra.s@husky.neu.edu), or on [Twitter](https://twitter.com/sid_mundhra).
 
 **P.P.S** - Goes without saying, if you like this recommend this to your friends. No pressure! Feedback is always appreciated.
 
