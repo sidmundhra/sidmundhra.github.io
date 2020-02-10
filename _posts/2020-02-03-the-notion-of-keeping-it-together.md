@@ -1,0 +1,18 @@
+---
+layout: single
+title:  "The Notion of Keeping it Together"
+date: January 26, 2020
+tags: product management
+excerpt: A strategy to grow the users of Notion     
+---
+{% include figure image_path="/assets/images/posts/TNOKIT/giphy(2).gif" alt="test" caption="credits: giphy" %}
+
+A month ago, when I committed to writing a weekly blog I knew it wasn't going to be easy. But what I didn't know at the time was that it was going to be this difficult. Over the last week, I have constantly thought about writing something for the blog and even wrote one. But it was something that did not pass the quality threshold that I had set for myself. Recall in the first post, I said I was going to do a series called 'This Month in Memes'. Well, I've canceled it. I wrote a post for it, even published it, but as much as I wanted to enjoy it, it did not feel right. So I deleted it. (To the 6 people who saw it, I apologize for that extra click of yours). I realized that this is not the apt platform to submit something as informal as memes and nobody is going to benefit from it. So yeah, that stands canceled!
+
+{% include figure image_path="/assets/images/posts/TNOKIT/giphy3.gif" alt="test" caption="credits: giphy" %}
+
+My primary goal for this blog was to publish something I can learn from and everyone who reads it takes away something from it. For the past two days, I even battled the idea of not publishing anything. Nobody will know, I thought. But I forgot I wasn’t doing it for anybody, I was doing this for myself. Anybody learning from it was a by-product. It was I who wanted to learn in the first place. If I can’t hold myself accountable, then that’s a weak commitment. And then something happened today, I missed writing. Something. Anything. And by sheer luck, I chanced upon this tweet by one of my favorite product leaders of the last decade, Sriram Krishnan, talking about how “nothing is too basic” when it comes to writing online. It felt like he was directly talking to me although he’s only come to know of my existence exactly once in my 26 years of existence on Earth. (I am not discounting the chance if I was a different life-form before coming to Earth. #H2G24lyf). A few days ago I had also listened to his 2-hr long insanely insightful podcast with Andrew Pompliano where he talks about how writing online is a selfish act, a medium to meet interesting people, and to put clarity in your thoughts. It’s also a pretty vulnerable act if you ask me. I get jitters when I hit ‘publish’. On the same podcast, he discussed an idea. Publishing a product strategy for a product you like/dislike. It then hit me, this is what I SHOULD be doing. I should be publishing memos, not memes! Therefore, with that established, I now plan to write a product strategy whenever I don’t have content to write about.
+
+To the uninitiated, a product strategy memo/doc is a document that describes the strategy executed to scale a product or to introduce new features to a product. A lot of PM interviewees go through this question when preparing for their interviews and is one of the toughest questions asked by the interviewers. The sole purpose of this document is to lay out the logic behind the ‘why’ of any growth effort that a company undertakes. Some really good examples of such documents can be found here, here, and here. With that out of the way, it's time to start the fun part.
+
+{% include figure image_path="/assets/images/posts/TNOKIT/notion-logo.png" alt="test" caption="credits: giphy" %}
