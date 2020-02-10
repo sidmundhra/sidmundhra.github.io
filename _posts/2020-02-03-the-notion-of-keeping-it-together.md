@@ -5,7 +5,7 @@ date: January 26, 2020
 tags: product management
 excerpt: A strategy to grow the users of Notion     
 ---
-{% include figure image_path="/assets/images/posts/TNOKIT/giphy(2).gif" caption="credits: giphy" %}
+{% include figure image_path="/assets/images/posts/TNOKIT/giphy (2).gif" caption="credits: giphy" %}
 
 A month ago, when I committed to writing a weekly blog I knew it wasn't going to be easy. But what I didn't know at the time was that it was going to be this difficult. Over the last week, I have constantly thought about writing something for the blog and even wrote one. But it was something that did not pass the quality threshold that I had set for myself. Recall in the first [post](https://sidmundhra.github.io/the-mvp/), I said I was going to do a series called 'This Month in Memes'. Well, I've canceled it. I wrote a post for it, even published it, but as much as I wanted to enjoy it, it did not feel right. So I deleted it. (To the 6 people who saw it, I apologize for that extra click of yours). I realized that this is not the apt platform to submit something as informal as memes and nobody is going to benefit from it. So yeah, that stands canceled!
 
@@ -47,7 +47,7 @@ Yet, Notion misses some of the features like OCR, which is paramount to a lot of
 
 A big part of why a lot of users bounce from Notion is that their mobile apps are not yet as efficient as most of their competitors. While using Notion on an iOS, a browser, and a desktop is an amazing experience, it’s really slow to load on Android phones, thereby limiting productivity on the go. The usual startup times on an android phone for Notion is ~15 seconds, which, in UX world means ‘boy, bye!’. This alienates a big chunk of users who primarily use their phones for work. Notion works well on iOS and most browsers, but it’s of crucial importance that it works like a charm on Android as well. Once they figure this bit out, it sets them up for growth as the users will find it easier to access the system everywhere they go no matter what platform they are on. This will be a big win to have as the apps enjoying the current status of market leaders perform well on every platform.
 
-{% include figure image_path="/assets/images/posts/TNOKIT/team.png" caption="credits: Notion.com" %}
+{% include figure image_path="/assets/images/posts/TNOKIT/team.jpg" caption="credits: Notion.com" %}
 
 **Growth in Enterprise Markets**
 
@@ -57,7 +57,7 @@ Another market that would work well for Notion is the online media market consis
 
 In summary, I think Notion can grow its user base through feature innovation, platform improvements, and new market penetration. In particular, by developing a fast, responsive android app and offering better features akin to the competition, Notion could get access to a whole suite of new users. Notion can also increase its users by replacing legacy systems in large companies and the media industry.
 
-{% include figure image_path="/assets/images/posts/TNOKIT/engg.png" caption="credits: Notion.com" %}
+{% include figure image_path="/assets/images/posts/TNOKIT/engg.jpg" caption="credits: Notion.com" %}
 
 Please know that I do not claim to be an expert at anything(except maybe Indian vegetarian food) neither am I the right person to comment on strategies to be undertaken by any organization. For what it’s worth, I just started my product strategy and innovation class and this is just an exercise for me to apply the concepts I’ve been learning in the class. For all I know, Notion might even be aware of these strategies and is actively trying to achieve this with their team. But for now, it is exciting to see how Notion grows on the path of becoming a billion-dollar company. I, for one, can’t recommend Notion enough to all my friends and connections. There’s a learning curve, I agree, but beyond that learning curve lies a system of efficiency.
 
